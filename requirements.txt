@@ -1,0 +1,15 @@
+ipython==8.12.3
+jupyterthemes==0.20.0
+keras==2.12.0
+keras_nightly==2.5.0.dev2021032900
+matplotlib==3.7.5
+numpy==1.23.5
+opencv_python==4.9.0.80
+pandas==2.0.3
+Pillow==9.5.0
+Pillow==10.3.0
+scikit_learn==1.3.2
+streamlit==1.22.0
+tensorflow==2.12.0
+tensorflow_cpu==2.5.0
+tensorflow_intel==2.12.0
